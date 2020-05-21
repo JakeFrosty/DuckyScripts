@@ -5,3 +5,5 @@ and will be publicly available.
 
 if you find somebody claiming my script as "his/her" script then tell me.
 i will confront him/her directly as i do not tolerate stolen works
+
+Go to releases to find my scripts
